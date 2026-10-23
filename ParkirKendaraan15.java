@@ -29,5 +29,7 @@ public class ParkirKendaraan15 {
         }
         System.out.println("Total pembayaran parkir: Rp " + total);
         System.out.println("Program selesai.");
+
+        sc.close();
     } 
 }
